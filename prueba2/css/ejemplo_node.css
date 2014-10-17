@@ -1,0 +1,19 @@
+body {
+	background: #333;
+	font-family: "Helvetica", Arial;
+	font-size: 48px;
+	text-align: center;
+	}
+form {
+	background: #ccc;
+	border-radius: 1em;
+	margin: 1em auto;
+	padding: 1em;
+	width: 60%;
+	}
+form input {
+	display: block;
+	font-size: 48px;
+	margin: 1em auto;
+	width: 50%;
+	}
